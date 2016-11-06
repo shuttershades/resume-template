@@ -1,0 +1,33 @@
+FONTLOG.txt for BStyle
+
+OFL Open Font License
+http://scripts.sil.org/OFL
+
+Fontfamily BStyle by Uwe Borchert 
+E-Mail: uwe.borchert@gmx.de
+
+This typeface is based on Binder-Style by Joseph 
+Binder for Stempel AG (1959). 
+
+Charset/Codepage: CP1250 (Latin1 + Euro = Latin15)
+and CP1252 (Latin2). The fonts includes long-s and 
+st-ligature. 
+
+ChangeLog
+
+01.09.2013 Version 1.1c
+           fixed wrong TTF-values (Bold had Regular)
+
+12.05.2013 Version 1.1b
+           added forgotten GSUB liga
+
+26.04.2013 Version 1.1
+           old stype kerning for old pango version
+
+19.04.2013 Version 1.0b
+           fixed radi in some glyphs (small letters)
+           fixed OS/2 settings Width Class
+           Sorry: There is a problem with the PSType1
+           fonts and ghostscript ... 
+           
+14.04.2013 Version 1.0 released
